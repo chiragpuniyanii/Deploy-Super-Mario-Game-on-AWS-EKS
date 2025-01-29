@@ -118,9 +118,10 @@ NOTE: Don’t forgot to change the s3 bucket name in the backend.tf file
 
 terraform validate
 terraform plan
+```
 ![image](https://github.com/user-attachments/assets/8a23f0df-40a4-4eae-8855-33ef91d9895b)
 
-```
+
 8. **Provision the Cluster:**
 
 ```bash
